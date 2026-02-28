@@ -172,5 +172,7 @@
   "discordCommandChoiceOpen": "ouvert",
   "discordCommandChoiceClosed": "fermé",
   "discordCommandChoiceMe": "moi",
-  "discordCommandChoiceAny": "tous"
+  "discordCommandChoiceAny": "tous",
+  "discordLinkManagedByHyDiscordX": "L'association du compte est gérée par HyDiscordX, veuillez utiliser ce service pour lier votre compte.",
+  "inGameLinkManagedByHyDiscordX": "L'association du compte est gérée par HyDiscordX, veuillez utiliser la commande en jeu pour lier votre compte."
 }
